@@ -1,12 +1,29 @@
-## Tse Carl (KingCarl080)
-- Role: Computer Science student, developer
-- University: University of South Wales
-- Interests: Computer science, software development, sports
-- Skills; Math and Physics, Microsoft softwares, Administrative roles, and communication skills, also very athletic.
-- Primary languages: python, C++
-- Current focus: Learning advanced C++ and returning to our python -based campus trading app
-- Notable project (in progress): 'RONC-exchange' — a python based application which me and some colleagues started working on for our final assesment during foundation year meant to make it easier for students to trade or give away items on campus to reduce waste (work is temporarily paused while I upskill in C++)
-  
-Quick summary:
-I enjoy practical projects that make a positive impact on my community. I contribute to backend logic and system design, and I like to pair that with hands-on learning—right now by diving deeper into C++.
-How to reach me, 30140157@students.southwales.ac.uk
+# Tse Carl (KingCarl080)
+
+Computer Science — First year  
+University of South Wales
+
+I'm a first-year Computer Science student at the University of South Wales. I enjoy building practical software and learning as much as I can in the process.
+
+Core strengths
+- Problem solving
+- Teamwork
+- Leadership
+
+Skills
+- Languages: Python, C++
+- Technical foundations: mathematics and basic physics
+- Tools & workflows: Microsoft Office, Git/version control, collaborative project work
+- Soft skills: communication, organisation, and administration
+
+Current focus
+- Increasing my knowledge of C++
+- Reviving and improving a Python-based campus trading app, RONC-exchange
+-  project
+- RONC-exchange (work in progress) — A Python application I started with classmates as a foundation-year assessment. The goal is to create a safer, easier way for students to buy, sell, and swap items on campus and reduce unnecessary waste.
+
+Short summary
+A motivated first-year Computer Science student who learns quickly and values practical outcomes. I enjoy playing and watching several sports in my leisure time.  
+
+Contact
+30140157@students.southwales.ac.uk
